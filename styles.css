@@ -59,7 +59,7 @@ a:hover {
 header {
   text-align: center;
   background: url('images/Coding.jpg') no-repeat top center ;
-  background-size:1100px 600px; 
+  background-size:1100px 600px;
   overflow: hidden;
   padding-top: 40px;
 }
@@ -247,5 +247,5 @@ font-size: 2.0em;
 .summary-list {
   text-align: left;
   position: static;
-  font-size: 1.3em;
+  font-size: 1.1em;
 }
